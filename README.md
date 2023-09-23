@@ -25,7 +25,9 @@ The following was done:
 
 ## Analysis and Visualization:  
 This was done using Pivot Tables, charts and dashboard.  Data was visualized using charts like bar chart, clustered column chart, line chart, sunburst and treemap. 
-![]()
+![](https://github.com/Mayreeobi/Maven-Marketing-Report/blob/main/maven1.png)
+
+![](https://github.com/Mayreeobi/Maven-Marketing-Report/blob/main/maven2.png)
 
 ## Insights
 1. Maven  Store has a customer based of  2,240 with an average income of $52,247.
